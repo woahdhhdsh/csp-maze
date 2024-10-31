@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> room1</title>
+        <title> up</title>
    </head>
         <body>
-        <H1>room1</H1>
+        <H1>as you head up the staircases you felt like youve been walking for ever so you look over and up at how many are left, This is what you see</H1>
+        <img src="endlesss.webp">
+        <h2>what would you like to do</h2>
+        <Button> Countinue</Button>
+        <a href=""
+        </a>
+        <button> turn around</button>
+        <a href="hallwaychoice2.html"
     </body>
